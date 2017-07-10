@@ -10,17 +10,17 @@ header div{
 #imgrs{
   margin-top: 102px;
 }
+
+}
 nav {
   height: 30px;
   background-color: #60BAEB;
   text-align: center;
   align-items: center;
 }
-.line{
-  border-radius: 5px;
-  color: #D57A25;
-  background-color: #050505;
-  margin-top: 5px;
+#section{
+  background-color: #EBDEBA;
+  
 }
 body{
   background-color: #050505;
@@ -29,6 +29,10 @@ li{
   margin-right: 75px;
 }
 
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
 
 @media (max-width: 770px) {
   /* Clase para ocultar componentes HTML */
