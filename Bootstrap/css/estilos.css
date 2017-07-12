@@ -20,8 +20,11 @@ nav {
 }
 #section{
   background-color: #EBDEBA;
-  
 }
+#buscar1{
+  margin-top: 20px;
+  margin-bottom: 20px
+} 
 body{
   background-color: #050505;
 }
@@ -33,6 +36,7 @@ li{
     content: "";
     clear: both;
     display: block;
+}
 
 @media (max-width: 770px) {
   /* Clase para ocultar componentes HTML */
