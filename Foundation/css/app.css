@@ -1,15 +1,35 @@
+body{
+	background-image: url(http://www.i-cocinas.com/Minis/muebles-de-cocina-sin-tiradores.jpg);
+	background-repeat:no-repeat; 
+	background-position:center; 
+	background-attachment:fixed; 
+}
+
 div[class*="columns"]{
-  background: #B4DCED;
+  background: #e6e2c49e;
   border: 1px solid #585858;
   padding: 5px;
   font-size: 1rem;
 
 }
+div ul li a{
+	background-color: white;
+}
+div ul li a:hover{
+	background-color: yellow;
 
+}
 #buscar{
 	border-radius: 10px;
 	background-image: url(http://es.catarroja.es/assets/main/lupa_buscador-6cd6b046014e04afd8dedb9bf033c94f.png);
 	background-position: 10px 10px;
+	background-repeat: no-repeat;
+	padding-left: 35px;
+}
+#comentar{
+	border-radius: 10px;
+	background-image: url(http://i.imgur.com/515lIPH.png);
+	background-position: 10px 8px;
 	background-repeat: no-repeat;
 	padding-left: 35px;
 }
