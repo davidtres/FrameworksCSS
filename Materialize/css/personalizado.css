@@ -1,3 +1,21 @@
 #titulo{
 	height:4rem; 
 }
+#logo{
+	padding: 10px;
+	background-color: #ef6c00;
+	border-radius: 5px;
+	margin-left: 30px;
+	margin-top: 5px;
+}
+ddiv{
+	border: solid 1px black;
+}
+a img{
+	
+	margin: 20px;
+}
+div img{
+	padding: 10px;
+
+}
