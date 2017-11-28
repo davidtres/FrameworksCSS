@@ -18,10 +18,13 @@ a img{
 div img{
 	padding: 10px;
 }
-#comentar{
+#comentar{ 
 	border: solid 1px black;
 	border-radius: 10px;
 	padding-left: 50px;
 	background-image: url(http://www.ubv.edu.ve/sites/default/files/styles/iconos-surubv.png);
 	background-repeat: no-repeat;
+}
+#autor{
+	text-align: center;
 }
